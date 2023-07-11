@@ -1,9 +1,12 @@
 {
+  "About": "About",
   "About app": "About app",
   "An unexpected error has occurred": "An unexpected error has occurred",
   "Home": "Home",
   "Language": "Language",
   "Page not found": "Page not found",
   "Refresh the page": "Refresh the page",
-  "throw error": "throw error"
+  "throw error": "throw error",
+  "Главная": "Главная",
+  "О сайте": "О сайте"
 }

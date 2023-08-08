@@ -29,7 +29,7 @@ export const Navbar = ({ className }: NavbarProps) => {
             {/* eslint-disable-next-line i18next/no-literal-string */}
             <Modal isOpen={isAuthModal} onClose={onToggleModal}>
                 {/* eslint-disable-next-line */}
-                -Hi my name is Tom! -How are you? -Im good :D BLABLA BLABLA BLABLA BLABLABLA BLABLA BLABLABLA BLABLA BLABLABLA BLABLA
+                {t('-Hi my name is Tom! -How are you? -Im good :D BLABLA BLABLA BLABLA BLABLABLA BLABLA BLABLABLA BLABLA BLABLABLA BLABLA')}
             </Modal>
         </div>
     );
